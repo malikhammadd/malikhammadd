@@ -1,5 +1,5 @@
 [ReadMe (1).md](https://github.com/user-attachments/files/21800107/ReadMe.1.md)
-# 💫 About Me:
+# 💫 About Me: MALIK HAMMAD
 💡 Machine Learning (Regression, Classification, Model Evaluation)<br>🧠 Deep Learning (Neural Networks, CNNs, RNNs, Autoencoders)<br>🧪 Generative AI (LLMs, Transformers, Text-to-Image models)<br>📷 Computer Vision (OpenCV, Image Processing, Object Detection)<br>🐍 Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch)<br>🗣️ NLP Basics (Text classification, Tokenization, Embeddings)<br>📊 Data Preprocessing & Visualization<br>🌐 Git & GitHub for version control<br><br><br>🚀 I’m constantly learning, building projects, and staying updated with the fast-paced advancements in AI.<br>🎯 I aim to contribute to innovative solutions that combine automation, intelligence, and creativity.<br><br>
 
 
