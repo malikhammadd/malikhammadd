@@ -1,4 +1,4 @@
-I’m Malik Hammad
+ABOUT ME :I’m Malik Hammad
 Enthusiastic AI student dedicated to mastering Artificial Intelligence, Machine Learning, and Deep Learning. My journey is driven by the desire to create practical, real-world solutions through intelligent systems and automation.
 
 I have hands-on experience with Python and key ML libraries such as NumPy, Pandas, Scikit-learn, and Matplotlib. Recently, I’ve been diving deeper into Deep Learning with frameworks like TensorFlow and PyTorch. I’m also exploring the exciting space of Generative AI, covering areas like Large Language Models (LLMs), Natural Language Processing (NLP), and image generation techniques.
