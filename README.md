@@ -1,5 +1,9 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/21800107/ReadMe.1.md)
-# 💫 About Me: MALIK HAMMAD
+I’m Malik Hammad
+Enthusiastic AI student dedicated to mastering Artificial Intelligence, Machine Learning, and Deep Learning. My journey is driven by the desire to create practical, real-world solutions through intelligent systems and automation.
+
+I have hands-on experience with Python and key ML libraries such as NumPy, Pandas, Scikit-learn, and Matplotlib. Recently, I’ve been diving deeper into Deep Learning with frameworks like TensorFlow and PyTorch. I’m also exploring the exciting space of Generative AI, covering areas like Large Language Models (LLMs), Natural Language Processing (NLP), and image generation techniques.
+
+My passion for Computer Vision has led me to work with OpenCV on projects involving image classification, object detection, and real-time video analysis, constantly pushing myself to learn and improve. 
 💡 Machine Learning (Regression, Classification, Model Evaluation)<br>🧠 Deep Learning (Neural Networks, CNNs, RNNs, Autoencoders)<br>🧪 Generative AI (LLMs, Transformers, Text-to-Image models)<br>📷 Computer Vision (OpenCV, Image Processing, Object Detection)<br>🐍 Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch)<br>🗣️ NLP Basics (Text classification, Tokenization, Embeddings)<br>📊 Data Preprocessing & Visualization<br>🌐 Git & GitHub for version control<br><br><br>🚀 I’m constantly learning, building projects, and staying updated with the fast-paced advancements in AI.<br>🎯 I aim to contribute to innovative solutions that combine automation, intelligence, and creativity.<br><br>
 
 
